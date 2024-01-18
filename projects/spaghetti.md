@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Spaghetti.jpg
+image: Spaghetti.jpg
 title: "Spaghetti"
 date: 2023-01-17
 published: true
