@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Spaghetti.jpg
 title: "Spaghetti"
 date: 2023-01-17
 published: true
