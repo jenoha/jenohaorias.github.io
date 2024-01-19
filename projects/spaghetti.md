@@ -6,10 +6,10 @@ title: "Spaghetti"
 date: 2023-01-17
 published: true
 labels:
-  - Robot Spaghetti
-  - Arduino
-  - Javascript
-summary: "My team developed Spaghetti that won first place in the 2023 UH Spaghetti competition."
+  - Cooking
+  - Creative Writing
+  - Philosophy
+summary: "A culinary marvel that pervades every aspect of my personal life."
 ---
 
 <div class="text-center p-4">
@@ -18,22 +18,24 @@ summary: "My team developed Spaghetti that won first place in the 2023 UH Spaghe
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Spaghetti is an event where small robot “Spaghetti” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the Spaghetti will run that route in the shortest possible time.
+Spaghetti is a simple dish. Every ingredient an instrument, each on their own a cacophany of experiences, but together it is a symphony of flavor. It is an orchestra that encapsulates countless individuals hearts and minds globally. Entire cultures adapt it to the ingredients they have locally, unifying them with a twirl of their individual forks. It is what many consider home. To me, it is one of the most important projects that I work to perfect every time I make it. That project is dinner.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest Spaghetti who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
+Now I know what you're thinking. What is this paragraph? How does this apply to MIS? Did I really just read about spaghetti on a professional portfolio? If there is one thing that cooking has taught me, it is that you have to be audacious. Not just because I don't have an actual MIS project I'm presently working on. Although technically this was written on an ".md" file, and I am going to make spaghetti for dinner tonight so yes, it is an actual project and its related to MIS. Don't believe me? I included a recipe below:
 
 ```cpp
-byte ADCRead(byte ch)
+Ingredient List:
 {
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+    1 box spaghetti noodles
+    1 pound ground beef
+    1 egg
+    1/2 cup parsley
+    1/2 cup basil
+    1/2 cup grated parmesean
+    2 cloves of garlic
+    1-2 tablespoons of salt and pepper
+    1 jar of spaghetti sauce
+    1/2 cup of breadcrumbs
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can read the instructions at [Once Upon a Chef](https://www.onceuponachef.com/recipes/spaghetti-and-meatballs.html).
