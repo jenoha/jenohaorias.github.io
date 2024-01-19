@@ -43,7 +43,6 @@
     {
       "company": "Hawaii Army National Guard",
       "position": "Human Resources Specialist",
-      "website": "",
       "startDate": "2020-03-14",
       "endDate": "Present",
       "summary": "Specialist in human resources and administration",
@@ -51,6 +50,17 @@
         "Maintain, update, and oversee offical documentation",
         "Drive, improve, and build rapport in community and supporting facilities",
         "Maintain data and computer programs to keep personnel up to date"
+      ]
+    }
+     {
+      "company": "Hawaii Army National Guard",
+      "position": "Operations Specialist",
+      "startDate": "2021-06-05",
+      "endDate": "Present",
+      "summary": "Supported leadership by completing administrative tasks and ad hoc collateral duties in a dynamic environment",
+      "highlights": [
+        "Contributed to operational efficiency cross-cultural program, Tiger Balm ",
+        "Selected three times to manage logistics support and evaluation during the 2020, 2021, and 2022 Best Warrior Competition",
       ]
     }
   ],
