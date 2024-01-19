@@ -1,69 +1,100 @@
 {
-  "basics": {
-    "name": "Jenoha Orias",
-    "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/156377221?…00&u=473cc0438b2ba33e8d7ec6a1f3433482925c1354&v=4",
-    "email": "jenoha@hawaii.edu",
-    "website": "https://jenoha.github.io/jenohaorias.github.io",
-    "summary": "I am studying for a B.S. in Management Information Systems in the Schidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "profiles": [
-      { "network": "github", "Jenoha Orias": "Jenoha Orias", "url": "http://github.com/jenoha" },
-      { "network": "instagram", "je_ori": "Jenoha", "url": "http://instagram.com/je_ori" }
-    ]
-  },
-  "interests": [
-    { "name": "Cooking" },
-    { "name": "Physical Fitness" },
-    { "name": "Reading" },
-    { "name": "Creative Writing" },
-    { "name": "Philosophy" },
-  ],
-  "skills": [
-    {
-      "name": "Hard Skills",
-      "keywords": [ "Document Management", "HR Systems", "Microsoft Office", "Data Entry" ]
-    },
-    {
-      "name": "Soft Skills",
-      "keywords": [ "Interpersonal Communication", "Problem Solving", "Leadership", "Empathy", "Adaptabiliy" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2025)",
-      "studyType": "B.S.",
-      "startDate": "2021-08-29",
-      "endDate": "Present",
-      "courses": [
+   "basics":{
+      "name":"Jenoha Orias",
+      "label":"Student",
+      "picture":"https://avatars.githubusercontent.com/u/156377221?…00&u=473cc0438b2ba33e8d7ec6a1f3433482925c1354&v=4",
+      "email":"jenoha@hawaii.edu",
+      "website":"https://jenoha.github.io/jenohaorias.github.io",
+      "summary":"I am studying for a B.S. in Management Information Systems in the Schidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
+      "profiles":[
+         {
+            "network":"github",
+            "Jenoha Orias":"Jenoha Orias",
+            "url":"http://github.com/jenoha"
+         },
+         {
+            "network":"instagram",
+            "je_ori":"Jenoha",
+            "url":"http://instagram.com/je_ori"
+         }
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Hawaii Army National Guard",
-      "position": "Human Resources Specialist",
-      "startDate": "2020-03-14",
-      "endDate": "Present",
-      "summary": "Specialist in human resources and administration",
-      "highlights": [
-        "Maintain, update, and oversee offical documentation",
-        "Drive, improve, and build rapport in community and supporting facilities",
-        "Maintain data and computer programs to keep personnel up to date"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "4 Year Minuteman Scholarship",
-      "date": "2021-Present",
-      "awarder": "Hawaii Army National Guard",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 2.5 at a Hawai'i public school."
-    }
-  ]
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Cooking"
+      },
+      {
+         "name":"Physical Fitness"
+      },
+      {
+         "name":"Reading"
+      },
+      {
+         "name":"Creative Writing"
+      },
+      {
+         "name":"Philosophy"
+      }
+   ],
+   "skills":[
+      {
+         "name":"Hard Skills",
+         "keywords":[
+            "Document Management",
+            "HR Systems",
+            "Microsoft Office",
+            "Data Entry"
+         ]
+      },
+      {
+         "name":"Soft Skills",
+         "keywords":[
+            "Interpersonal Communication",
+            "Problem Solving",
+            "Leadership",
+            "Empathy",
+            "Adaptabiliy"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Spring, 2025)",
+         "studyType":"B.S.",
+         "startDate":"2021-08-29",
+         "endDate":"Present",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Hawaii Army National Guard",
+         "position":"Human Resources Specialist",
+         "website":"",
+         "startDate":"2020-03-14",
+         "endDate":"Present",
+         "summary":"Specialist in human resources and administration",
+         "highlights":[
+            "Maintain, update, and oversee offical documentation",
+            "Drive, improve, and build rapport in community and supporting facilities",
+            "Maintain data and computer programs to keep personnel up to date"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"4 Year Minuteman Scholarship",
+         "date":"2021-Present",
+         "awarder":"Hawaii Army National Guard",
+         "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 2.5 at a Hawai'i public school."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request"
+      }
+   ]
 }
