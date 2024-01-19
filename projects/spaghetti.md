@@ -14,7 +14,6 @@ summary: "A culinary marvel that pervades every aspect of my personal life."
 
 <div class="text-center p-4">
   <img width="200px" src="img/spaghetti/Spaghetti-and-Meatballs.jpg" class="img-thumbnail" >
-  <img width="200px" src="img/spaghetti/unassembled.jpg" class="img-thumbnail" >
 </div>
 
 Spaghetti is a simple dish. Every ingredient an instrument, each on their own a cacophany of experiences, but together it is a symphony of flavor. It is an orchestra that encapsulates countless individuals hearts and minds globally. Entire cultures adapt it to the ingredients they have locally, unifying them with a twirl of their individual forks. It is what many consider home. To me, it is one of the most important projects that I work to perfect every time I make it. That project is dinner.
