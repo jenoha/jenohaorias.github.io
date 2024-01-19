@@ -50,7 +50,7 @@
         "Maintain, update, and oversee offical documentation",
         "Drive, improve, and build rapport in community and supporting facilities",
         "Maintain data and computer programs to keep personnel up to date"
-      ]
+      ],
     }
      {
       "company": "Hawaii Army National Guard",
@@ -66,12 +66,12 @@
   ],
   "awards": [
     {
-      "title": "Minuteman Scholarship",
+      "title": "4 Year Minuteman Scholarship",
       "date": "2021-Present",
       "awarder": "Hawaii Army National Guard",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 2.5 at a Hawai'i public school."
     }
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request"
