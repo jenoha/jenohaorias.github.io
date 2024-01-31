@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "WOD 1-3 Essay"
+title: "WOD 1-3"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-30
 published: true
