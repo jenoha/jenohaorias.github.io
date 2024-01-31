@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "WOD 1-3 Essay"
-# All dates must be YYYY-MM-DD format!
+**# All dates must be YYYY-MM-DD format!**
 date: 2023-01-30
 published: true
 labels:
